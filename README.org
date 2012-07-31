@@ -1,3 +1,18 @@
 * Solutions to the [[http://ace.delos.com/usacogate][USACO Training Gateway]] problems
 
 These solutions are provided "as is". I give no guarantees that they will work as expected.
+
+** Problems solved
+
+The following is a possibly innacurate list of the problems solved:
+- Barn Repair (barn1.cpp)
+- Broken Necklace (beads.cpp)
+- Dual Palindromes (dualpal.cpp)
+- Friday the Thirteenth (friday.cpp)
+- Greedy Gift Givers (gift1.cpp)
+- Milking Cows (milk2.cpp)
+- Mixing Milk (milk.cpp)
+- Name That Number (namenum.cpp)
+- Palindromic Squares (palsquare.cpp)
+- Transformations (transform.cpp)
+- Your Ride is Here (ride.cpp)
