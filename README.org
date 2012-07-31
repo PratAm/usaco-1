@@ -2,17 +2,39 @@
 
 These solutions are provided "as is". I give no guarantees that they will work as expected.
 
+** Instructions
+
+You can compile all the problems by issuing the following command:
+
+#+BEGIN_SRC
+make
+#+END_SRC
+
+If you want to compile only a specific problem, issue the following command, replacing ~<problem_id>~ with the id of the problem you want to compile (see section "Problems Solved" for the list of possible ids):
+
+#+BEGIN_SRC
+make <problem_id>
+#+END_SRC
+
+Running a compiled problem is just a matter of executing a command similar to the next one, replacing ~barn1~ with the id of the desired problem:
+
+#+BEGIN_SRC
+./barn1
+#+END_SRC
+
+Remember that each problem expects the presence of a file with a ~.in~ extension in the same directory as the binary and with name equal to the problem id, and outputs its result to a file with a ~.out~ extension and with name equal to the problem id.
+
 ** Problems solved
 
 The following is a possibly innacurate list of the problems solved:
-- Barn Repair (barn1.cpp)
-- Broken Necklace (beads.cpp)
-- Dual Palindromes (dualpal.cpp)
-- Friday the Thirteenth (friday.cpp)
-- Greedy Gift Givers (gift1.cpp)
-- Milking Cows (milk2.cpp)
-- Mixing Milk (milk.cpp)
-- Name That Number (namenum.cpp)
-- Palindromic Squares (palsquare.cpp)
-- Transformations (transform.cpp)
-- Your Ride is Here (ride.cpp)
+- Barn Repair (~barn1.cpp~)
+- Broken Necklace (~beads.cpp~)
+- Dual Palindromes (~dualpal.cpp~)
+- Friday the Thirteenth (~friday.cpp~)
+- Greedy Gift Givers (~gift1.cpp~)
+- Milking Cows (~milk2.cpp~)
+- Mixing Milk (~milk.cpp~)
+- Name That Number (~namenum.cpp~)
+- Palindromic Squares (~palsquare.cpp~)
+- Transformations (~transform.cpp~)
+- Your Ride is Here (~ride.cpp~)
