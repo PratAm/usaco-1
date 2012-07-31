@@ -29,6 +29,7 @@ Remember that each problem expects its input in a file with a ~.in~ extension in
 The following is a possibly innacurate list of the problems solved:
 - Barn Repair (~barn1.cpp~)
 - Broken Necklace (~beads.cpp~)
+- Calf Flac (~calfflac.cpp~)
 - Dual Palindromes (~dualpal.cpp~)
 - Friday the Thirteenth (~friday.cpp~)
 - Greedy Gift Givers (~gift1.cpp~)
