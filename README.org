@@ -37,5 +37,6 @@ The following is a possibly innacurate list of the problems solved:
 - Mixing Milk (~milk.cpp~)
 - Name That Number (~namenum.cpp~)
 - Palindromic Squares (~palsquare.cpp~)
+- Prime Cryptarithm (~crypt1.cpp~)
 - Transformations (~transform.cpp~)
 - Your Ride is Here (~ride.cpp~)
