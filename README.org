@@ -22,7 +22,7 @@ Running a compiled problem is just a matter of executing a command similar to th
 ./1.3/barn1
 #+END_SRC
 
-Remember that each problem expects its input in a file with a ~.in~ extension in the same directory as the binary and with name equal to the problem id, and outputs its result to a file with a ~.out~ extension and with name equal to the problem id.
+Remember that each problem expects its input in a file with a ~.in~ extension in the directory the binary is executed from and with name equal to the problem id, and outputs its result to a file with a ~.out~ extension and with name equal to the problem id.
 
 ** Problems solved
 
