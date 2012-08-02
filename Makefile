@@ -1,6 +1,5 @@
-CC_FILES = $(wildcard *.cpp)
+CC_FILES = $(wildcard */*.cpp)
 BIN_FILES = $(patsubst %.cpp, %, $(CC_FILES))
-OUT_FILES = $(patsubst %.cpp, %.out, $(CC_FILES))
 CC_FLAGS = -Wall
 CC = g++
 
@@ -14,4 +13,4 @@ check-syntax:
 	$(CC) $(CC_FLAGS) -o $@ $<
 
 clean:
-	rm $(BIN_FILES) $(OUT_FILES) *~
+	rm $(BIN_FILES) *.out *~
