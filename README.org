@@ -45,3 +45,6 @@ The following is a possibly innacurate list of the problems solved:
   - Barn Repair (~barn1.cpp~)
   - Calf Flac (~calfflac.cpp~)
   - Prime Cryptarithm (~crypt1.cpp~)
+- Section 1.4
+  - Packing Rectangles (~packrec.cpp~)
+  - The Clocks (~clocks.cpp~)
