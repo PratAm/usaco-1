@@ -48,3 +48,4 @@ The following is a possibly innacurate list of the problems solved:
 - Section 1.4
   - Packing Rectangles (~packrec.cpp~)
   - The Clocks (~clocks.cpp~)
+  - Arithmetic Progressions (~ariprog.cpp~)
