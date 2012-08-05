@@ -7,7 +7,6 @@ LANG: C++
 #include <fstream>
 #include <vector>
 #include <set>
-#include <iostream>
 
 using namespace std;
 
