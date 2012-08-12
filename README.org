@@ -52,3 +52,4 @@ The following is a possibly innacurate list of the problems solved:
   - Mother's Milk (~milk3.cpp~)
 - Section 1.5
   - Number Triangles (~numtri.cpp~)
+  - Prime Palindromes (~pprime.cpp~)
