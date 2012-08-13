@@ -53,3 +53,4 @@ The following is a possibly innacurate list of the problems solved:
 - Section 1.5
   - Number Triangles (~numtri.cpp~)
   - Prime Palindromes (~pprime.cpp~)
+  - SuperPrime Rib (~sprime.cpp~)
