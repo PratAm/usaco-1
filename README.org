@@ -54,3 +54,4 @@ The following is a possibly innacurate list of the problems solved:
   - Number Triangles (~numtri.cpp~)
   - Prime Palindromes (~pprime.cpp~)
   - SuperPrime Rib (~sprime.cpp~)
+  - Checker Challenge (~checker.cpp~)
