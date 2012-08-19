@@ -58,3 +58,4 @@ The following is a possibly innacurate list of the problems solved:
 - Section 2.1
   - The Castle (~castle.cpp~)
   - Ordered Fractions (~frac1.cpp~)
+  - Sorting a Three-Valued Sequence (~sort3.cpp~)
