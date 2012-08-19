@@ -57,3 +57,4 @@ The following is a possibly innacurate list of the problems solved:
   - Checker Challenge (~checker.cpp~)
 - Section 2.1
   - The Castle (~castle.cpp~)
+  - Ordered Fractions (~frac1.cpp~)
