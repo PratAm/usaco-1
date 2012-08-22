@@ -63,3 +63,4 @@ The following is a possibly innacurate list of the problems solved:
   - Hamming Codes (~hamming.cpp~)
 - Section 2.2
   - Preface Numbering (~preface.cpp~)
+  - Subset Sums (~subset.cpp~)
