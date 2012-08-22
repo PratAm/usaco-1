@@ -65,3 +65,4 @@ The following is a possibly innacurate list of the problems solved:
   - Preface Numbering (~preface.cpp~)
   - Subset Sums (~subset.cpp~)
   - Runaround Numbers (~runround.cpp~)
+  - Party Lamps (~lamps.cpp~)
