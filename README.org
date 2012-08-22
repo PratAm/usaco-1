@@ -61,3 +61,5 @@ The following is a possibly innacurate list of the problems solved:
   - Sorting a Three-Valued Sequence (~sort3.cpp~)
   - Healthy Holsteins (~holstein.cpp~)
   - Hamming Codes (~hamming.cpp~)
+- Section 2.2
+  - Preface Numbering (~preface.cpp~)
