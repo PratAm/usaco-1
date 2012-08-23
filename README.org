@@ -66,3 +66,5 @@ The following is a possibly innacurate list of the problems solved:
   - Subset Sums (~subset.cpp~)
   - Runaround Numbers (~runround.cpp~)
   - Party Lamps (~lamps.cpp~)
+- Section 2.3
+  - The Longest Prefix (~prefix.cpp~)
