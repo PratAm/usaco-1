@@ -70,3 +70,4 @@ The following is a possibly innacurate list of the problems solved:
   - The Longest Prefix (~prefix.cpp~)
   - Cow Pedigrees (~nocows.cpp~)
   - Zero Sum (~zerosum.cpp~)
+  - Money Systems (~money.cpp~)
