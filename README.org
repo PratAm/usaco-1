@@ -68,3 +68,4 @@ The following is a possibly innacurate list of the problems solved:
   - Party Lamps (~lamps.cpp~)
 - Section 2.3
   - The Longest Prefix (~prefix.cpp~)
+  - Cow Pedigrees (~nocows.cpp~)
