@@ -21,10 +21,6 @@ int getMinimalSteps(vector<string> maze) {
     map<pair<int, int>, int> distances;
     vector<pair<int, int> > exits;
 
-    for (unsigned int i = 0; i < maze.size(); i++)
-        if (maze[i].size() != (unsigned int) W)
-            maze[i] = maze[i] + string(W - maze[i].size(), ' ');
-
     for (unsigned int i = 0; i < maze[0].size(); i++) {
         if (maze[0][i] == ' ')
             exits.push_back(make_pair(1, i));
@@ -97,9 +93,13 @@ int main() {
     fin >> W >> H;
     fin.get();
 
-    for (int i = 0; i < 2*H + 1; i++) {
+    for (int i = 0; i < 2 * H + 1; i++) {
         string s;
         getline(fin, s);
+
+        if (s.size() != (unsigned int) 2 * W + 1)
+            s = s + string(2 * W + 1 - s.size(), ' ');
+
         maze.push_back(s);
     }
 
