@@ -11,8 +11,6 @@ LANG: C++
 #include <string>
 #include <vector>
 
-#include <iostream>
-
 using namespace std;
 
 double pastureDistance(pair<double, double> p1, pair<double, double> p2) {
