@@ -89,3 +89,4 @@ The following is a possibly innacurate list of the problems solved:
 
 * The Tamworth Two (`ttwo.cpp`)
 * Overfencing (`maze1.cpp`)
+* Cow Tours (`cowtour.cpp`)
