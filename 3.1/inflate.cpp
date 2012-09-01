@@ -7,7 +7,6 @@ LANG: C++
 #include <fstream>
 #include <vector>
 #include <map>
-#include <iostream>
 
 using namespace std;
 
