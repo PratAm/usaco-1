@@ -92,3 +92,7 @@ The following is a possibly innacurate list of the problems solved:
 * Cow Tours (`cowtour.cpp`)
 * Bessie Come Home (`comehome.cpp`)
 * Fractions to Decimals (`fracdec.cpp`)
+
+### Section 3.1
+
+* Agri-Net (`agrinet.cpp`)
