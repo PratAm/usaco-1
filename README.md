@@ -91,3 +91,4 @@ The following is a possibly innacurate list of the problems solved:
 * Overfencing (`maze1.cpp`)
 * Cow Tours (`cowtour.cpp`)
 * Bessie Come Home (`comehome.cpp`)
+* Fractions to Decimals (`fracdec.cpp`)
