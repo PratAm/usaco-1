@@ -96,3 +96,4 @@ The following is a possibly innacurate list of the problems solved:
 ### Section 3.1
 
 * Agri-Net (`agrinet.cpp`)
+* Score Inflation (`inflate.cpp`)
