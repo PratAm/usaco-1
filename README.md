@@ -97,3 +97,4 @@ The following is a possibly innacurate list of the problems solved:
 
 * Agri-Net (`agrinet.cpp`)
 * Score Inflation (`inflate.cpp`)
+* Humble Numbers (`humble.cpp`)
