@@ -99,3 +99,4 @@ The following is a possibly innacurate list of the problems solved:
 * Score Inflation (`inflate.cpp`)
 * Humble Numbers (`humble.cpp`)
 * Shaping Regions (`rect1.cpp`)
+* Contact (`contact.cpp`)
