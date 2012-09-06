@@ -100,3 +100,4 @@ The following is a possibly innacurate list of the problems solved:
 * Humble Numbers (`humble.cpp`)
 * Shaping Regions (`rect1.cpp`)
 * Contact (`contact.cpp`)
+* Stamps (`stamps.cpp`)
