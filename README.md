@@ -101,3 +101,7 @@ The following is a possibly innacurate list of the problems solved:
 * Shaping Regions (`rect1.cpp`)
 * Contact (`contact.cpp`)
 * Stamps (`stamps.cpp`)
+
+### Section 3.2
+
+* Factorials (`fact4.cpp`)
