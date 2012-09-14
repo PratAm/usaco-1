@@ -105,3 +105,4 @@ The following is a possibly innacurate list of the problems solved:
 ### Section 3.2
 
 * Factorials (`fact4.cpp`)
+* Spinning Wheels (`spin.cpp`)
