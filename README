@@ -145,6 +145,7 @@ The following is a possibly innacurate list of the problems solved:
 
   * Factorials (fact4.cpp)
   * Spinning Wheels (spin.cpp)
+  * Feed Ratios (ratios.cpp)
 
 
 License
