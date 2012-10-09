@@ -4,7 +4,8 @@ This repository contains solutions to the USACO Training Gateway problemas,
 available at
 [http://ace.delos.com/usacogate](http://ace.delos.com/usacogate). These
 solutions are provided "as is". I give no guarantees that they will work as
-expected.
+expected. Submitting my solutions will probably get you banned from the USACO
+website.
 
 ## Instructions
 
