@@ -121,3 +121,4 @@ The following is a possibly innacurate list of the problems solved:
 * Stringsobits (`kimbits.cpp`)
 * Spinning Wheels (`spin.cpp`)
 * Feed Ratios (`ratios.cpp`)
+* Magic Squares (`msquare.cpp`)
