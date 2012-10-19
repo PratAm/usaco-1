@@ -122,3 +122,4 @@ The following is a possibly innacurate list of the problems solved:
 * Spinning Wheels (`spin.cpp`)
 * Feed Ratios (`ratios.cpp`)
 * Magic Squares (`msquare.cpp`)
+* Sweet Butter (`butter.cpp`)
