@@ -123,3 +123,7 @@ The following is a possibly innacurate list of the problems solved:
 * Feed Ratios (`ratios.cpp`)
 * Magic Squares (`msquare.cpp`)
 * Sweet Butter (`butter.cpp`)
+
+### Section 3.3
+
+* Riding the Fences (`fence.cpp`)
