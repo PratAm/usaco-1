@@ -127,3 +127,4 @@ The following is a possibly innacurate list of the problems solved:
 ### Section 3.3
 
 * Riding the Fences (`fence.cpp`)
+* Shopping Offers (`shopping.cpp`)
