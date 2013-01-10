@@ -1,11 +1,9 @@
-# Solutions to the USACO Training Gateway problems
+# Solutions to the [USACO Training Gateway][1] problems
 
 This repository contains solutions to the USACO Training Gateway problemas,
-available at
-[http://ace.delos.com/usacogate](http://ace.delos.com/usacogate). These
-solutions are provided "as is". I give no guarantees that they will work as
-expected. Submitting my solutions will probably get you banned from the USACO
-website.
+available at [http://ace.delos.com/usacogate][1]. These solutions are provided
+"as is". I give no guarantees that they will work as expected. Submitting my
+solutions will probably get you banned from the USACO website.
 
 ## Instructions
 
@@ -128,3 +126,6 @@ The following is a possibly innacurate list of the problems solved:
 
 * Riding the Fences (`fence.cpp`)
 * Shopping Offers (`shopping.cpp`)
+* Camelot (`camelot.cpp`)
+
+[1]: http://ace.delos.com/usacogate
