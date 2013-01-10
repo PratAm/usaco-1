@@ -126,6 +126,5 @@ The following is a possibly innacurate list of the problems solved:
 
 * Riding the Fences (`fence.cpp`)
 * Shopping Offers (`shopping.cpp`)
-* Camelot (`camelot.cpp`)
 
 [1]: http://ace.delos.com/usacogate
