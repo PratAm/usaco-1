@@ -1,6 +1,6 @@
 # Solutions to the [USACO Training Gateway][1] problems
 
-This repository contains solutions to the USACO Training Gateway problemas,
+This repository contains solutions to the USACO Training Gateway problems,
 available at [http://ace.delos.com/usacogate][1]. These solutions are provided
 "as is". I give no guarantees that they will work as expected. Submitting my
 solutions will probably get you banned from the USACO website.
