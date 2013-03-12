@@ -125,5 +125,6 @@ The following is a possibly innacurate list of the problems solved:
 * Riding the Fences (`fence`)
 * Shopping Offers (`shopping`)
 * Camelot (`camelot`)
+* Home on the Range (`range`)
 
 [1]: http://ace.delos.com/usacogate
