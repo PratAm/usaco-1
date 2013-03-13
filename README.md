@@ -128,4 +128,8 @@ The following is a possibly innacurate list of the problems solved:
 * Home on the Range (`range`)
 * A Game (`game1`)
 
+### Section 3.4
+
+* American Heritage (`heritage`)
+
 [1]: http://ace.delos.com/usacogate
