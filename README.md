@@ -131,5 +131,6 @@ The following is a possibly innacurate list of the problems solved:
 ### Section 3.4
 
 * American Heritage (`heritage`)
+* Raucous Rockers (`rockers`)
 
 [1]: http://ace.delos.com/usacogate
