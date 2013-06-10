@@ -138,4 +138,8 @@ redirecting after login.
 * Electric Fence (`fence9`)
 * Raucous Rockers (`rockers`)
 
+### Section 4.1
+
+* Beef McNuggets (`nuggets`)
+
 [1]: http://ace.delos.com/usacogate
