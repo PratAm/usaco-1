@@ -135,6 +135,7 @@ redirecting after login.
 
 * Closed Fences (`fence4`)
 * American Heritage (`heritage`)
+* Electric Fence (`fence9`)
 * Raucous Rockers (`rockers`)
 
 [1]: http://ace.delos.com/usacogate
