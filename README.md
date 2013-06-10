@@ -29,7 +29,10 @@ the problem id.
 
 ## Problems solved
 
-The following is a possibly innacurate list of the problems solved:
+The following is a possibly innacurate list of the problems solved. I would like
+to have links to the problem statements, but the usaco site doesn't make it easy
+to get permalinks, by requiring a GET parameter after authentication, and by not
+redirecting after login.
 
 ### Section 1.0
 
@@ -130,6 +133,7 @@ The following is a possibly innacurate list of the problems solved:
 
 ### Section 3.4
 
+* Closed Fences (`fence4`)
 * American Heritage (`heritage`)
 * Raucous Rockers (`rockers`)
 
