@@ -12,8 +12,8 @@ You can compile all the problems by issuing the following command:
     $ make
 
 If you want to compile only a specific problem, issue the following command,
-replacing `<problem_id>` with the section and id of the problem you want to
-compile (see section "Problems Solved" for the list of possible ids):
+replacing `<problem_id>` with the id of the problem you want to compile (see
+section "Problems Solved" for the list of possible ids):
 
     $ make <problem_id>
 
@@ -141,5 +141,6 @@ redirecting after login.
 ### Section 4.1
 
 * Beef McNuggets (`nuggets`)
+* Fence Rails (`fence8`)
 
 [1]: http://ace.delos.com/usacogate
