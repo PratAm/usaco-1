@@ -141,5 +141,6 @@ redirecting after login.
 ### Section 4.1
 
 * Beef McNuggets (`nuggets`)
+* Fence Rails (`fence8`)
 
 [1]: http://ace.delos.com/usacogate
