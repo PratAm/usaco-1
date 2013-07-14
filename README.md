@@ -29,10 +29,10 @@ the problem id.
 
 ## Problems solved
 
-The following is a possibly innacurate list of the problems solved. I would like
-to have links to the problem statements, but the usaco site doesn't make it easy
-to get permalinks, by requiring a GET parameter after authentication, and by not
-redirecting after login.
+The following is the list of the problems solved. Each problem id is specified
+between round brackets. I would like to have links to the problem statements,
+but the usaco site doesn't make it easy to get permalinks, by requiring a GET
+parameter after authentication, and by not redirecting after login.
 
 ### Section 1.0
 
