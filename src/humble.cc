@@ -22,8 +22,6 @@ int getNthHumbleNumber(int N, vector<int> numbers) {
     int g = generated.size();
     int largest = numbers.back();
 
-    set<int>::iterator itr = generated.begin();
-
     while (s < N) {
         int current = *generated.begin();
         generated.erase(generated.begin());
